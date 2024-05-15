@@ -16,5 +16,6 @@ Precision : 0.7416
 Recall: 0.6488
 F1 Score: 0.6898
 ## Ethical Considerations
-
+The dataset used could have inherant biases that should be considered when using a model for this purposes as it could give unfair assessments for the unaccounted for population of people.
 ## Caveats and Recommendations
+The model can only be as accurate as the data is up to date. Since the information is older its important to supply more up to date information to be more accurate
